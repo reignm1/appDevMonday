@@ -9,7 +9,7 @@ public class Mendoza {
 
         System.out.println("Hello! This is Mendoza contributing to the project.");
         System.out.println("Your age next year will be: " + nextYearAge);
-
+ 
         scanner.close();
     }
 }
